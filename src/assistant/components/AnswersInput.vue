@@ -57,7 +57,7 @@ export default {
     return {
       current: 1,
       selections: [],
-      dropDownChoices: [],
+      dropDownChoices: []
     };
   },
   methods: {
